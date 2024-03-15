@@ -1,14 +1,14 @@
 {
-  "name": "sync",
+  "name": "web3-sync",
   "description": "Library that makes simple to run asynchronous functions in synchronous manner, using node-fibers.",
   "version": "0.2.5",
-  "url": "http://github.com/0ctave/node-sync",
-  "author": "Yuriy Bogdanov <chinsay@gmail.com>",
+  "url": "https://github.com/hungmai1407/web3-sync",
+  "author": "maisyhungns@gmail.com",
   "main": "lib/sync",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ybogdanov/node-sync.git"
+    "url": "https://github.com/hungmai1407/web3-sync"
   },
   "engines": {
     "node": ">=0.5.2"
